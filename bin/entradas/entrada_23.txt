@@ -1,0 +1,8 @@
+Bombeiro,Incêncio,Socorro,Telefone
+André____,5,0,3
+Leonardo_,1,4,0
+Larissa__,2,3,3
+Fernanda_,0,1,1
+Sabrina__,3,2,2
+Bruna____,2,2,2
+Thiago___,1,2,3

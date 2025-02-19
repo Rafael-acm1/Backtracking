@@ -1,0 +1,8 @@
+Bombeiro,Incêncio,Socorro,Telefone
+Juliane__,3,2,2
+Juliana__,1,2,3
+Carla____,0,2,1
+Eliane___,0,1,2
+Natália__,2,3,4
+Isabela__,4,1,1
+Renata___,4,3,1
